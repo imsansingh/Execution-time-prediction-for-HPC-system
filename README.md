@@ -5,10 +5,12 @@ HPC_Prediction_Analysis file contains the detailed modeling of project and train
 
 hpc_flask file contain the python code in which model is implemented and flask is used to deploy it.
 
+
 🛠️ Technologies Used
-Python 3.x
-Jupyter Notebook / Google Colab
-TensorFlow / Keras
-Random Forest
-Matplotlib / Seaborn
-NumPy / Pandas
+
+    Python 3.x
+    Jupyter Notebook / Google Colab
+    TensorFlow / Keras
+    Random Forest
+    Matplotlib / Seaborn
+    NumPy / Pandas
